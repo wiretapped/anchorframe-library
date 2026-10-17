@@ -1,0 +1,334 @@
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-1n/index.md	2026-10-17 12:23:26.664965833 +0000
+@@ -0,0 +1,18 @@
+++++
++title = "Canon EOS-1N"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-1N"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Professional autofocus SLR (1994–2000). Improved autofocus and metering over the EOS-1. Shutter 30s–1/8000s."
++
++[[resources]]
++src = "eos-1n.jpg"
++[resources.params]
++credit = "ShikikanZero"
++license = "CC BY-SA 3.0"
++licenseUrl = "https://creativecommons.org/licenses/by-sa/3.0/"
++alt = "Canon EOS-1N film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Canon_EOS-1N_camera.jpg"
++verified = "2026-10-17"
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-3/index.md	2026-10-17 12:23:26.676965834 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 3"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-3"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-5/index.md	2026-10-17 12:23:26.668965833 +0000
+@@ -0,0 +1,18 @@
+++++
++title = "Canon EOS 5"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS_5"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Eye-controlled autofocus SLR (1992). Marketed as EOS A2/A2E in some regions. Shutter 30s–1/8000s."
++
++[[resources]]
++src = "eos-5.jpg"
++[resources.params]
++credit = "Håkan Dahlström"
++license = "CC BY 2.0"
++licenseUrl = "https://creativecommons.org/licenses/by/2.0/"
++alt = "Canon EOS 5 film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Canon_EOS_5_01.jpg"
++verified = "2026-10-17"
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-30/index.md	2026-10-17 12:23:26.680965834 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 30"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-30"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-30v/index.md	2026-10-17 12:23:26.684965834 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 30v"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-30V"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-50/index.md	2026-10-17 12:23:26.688965834 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 50"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-50"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-100/index.md	2026-10-17 12:23:26.668965833 +0000
+@@ -0,0 +1,18 @@
+++++
++title = "Canon EOS 100"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS_100"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Consumer autofocus SLR (1991). Marketed as Elan in some regions. Shutter 30s–1/4000s."
++
++[[resources]]
++src = "eos-100.jpg"
++[resources.params]
++credit = "ML5"
++license = "Public domain"
++licenseUrl = "https://creativecommons.org/publicdomain/zero/1.0/"
++alt = "Canon EOS 100 film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:CanonEOS100with50mmLens.jpg"
++verified = "2026-10-17"
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-300/index.md	2026-10-17 12:23:26.668965833 +0000
+@@ -0,0 +1,18 @@
+++++
++title = "Canon EOS 300"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS_300"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Entry-level autofocus SLR (1999). Marketed as Rebel 2000 in some regions. Shutter 30s–1/2000s."
++
++[[resources]]
++src = "eos-300.jpg"
++[resources.params]
++credit = "Ansgar Koreng"
++license = "CC BY-SA 4.0"
++licenseUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
++alt = "Canon EOS 300 film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Canon_EOS_300,_1803102122,_ako.jpg"
++verified = "2026-10-17"
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-300v/index.md	2026-10-17 12:23:26.692965834 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 300v"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-300V"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-500/index.md	2026-10-17 12:23:26.696965834 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 500"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-500"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-500n/index.md	2026-10-17 12:23:26.700965834 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 500n"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-500N"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-620/index.md	2026-10-17 12:23:26.672965833 +0000
+@@ -0,0 +1,18 @@
+++++
++title = "Canon EOS 620"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS_620"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Early autofocus SLR (1987). Shutter 30s–1/4000s. Part of the first EOS generation."
++
++[[resources]]
++src = "eos-620.jpg"
++[resources.params]
++credit = "Pancolar"
++license = "CC BY-SA 4.0"
++licenseUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
++alt = "Canon EOS 620 film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Canon_EOS620.jpg"
++verified = "2026-10-17"
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-630/index.md	2026-10-17 12:23:26.672965833 +0000
+@@ -0,0 +1,18 @@
+++++
++title = "Canon EOS 630"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS_630"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Updated early EOS model (1989). Marketed as EOS 600 in some regions."
++
++[[resources]]
++src = "eos-630.jpg"
++[resources.params]
++credit = "TTTNIS"
++license = "Public domain"
++licenseUrl = "https://creativecommons.org/publicdomain/zero/1.0/"
++alt = "Canon EOS 630 film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Canon_EOS_630.JPG"
++verified = "2026-10-17"
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-650/index.md	2026-10-17 12:23:26.672965833 +0000
+@@ -0,0 +1,18 @@
+++++
++title = "Canon EOS 650"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS_650"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "First EOS camera (1987). Autofocus SLR. Shutter 30s–1/2000s."
++
++[[resources]]
++src = "eos-650.jpg"
++[resources.params]
++credit = "Bertrand Labévue"
++license = "CC BY-SA 4.0"
++licenseUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
++alt = "Canon EOS 650 film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Canon_EOS650_BL.jpg"
++verified = "2026-10-17"
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-1000/index.md	2026-10-17 12:23:26.672965833 +0000
+@@ -0,0 +1,18 @@
+++++
++title = "Canon EOS 1000"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS_1000"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Entry-level autofocus SLR (1990). Marketed as Rebel in some regions. Shutter 30s–1/1000s."
++
++[[resources]]
++src = "eos-1000.jpg"
++[resources.params]
++credit = "E Magnuson"
++license = "CC BY 2.0"
++licenseUrl = "https://creativecommons.org/licenses/by/2.0/"
++alt = "Canon EOS 1000 / Rebel film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:My_Canon_Rebel_(5190222140)_(cropped).jpg"
++verified = "2026-10-17"
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-3000n/index.md	2026-10-17 12:23:26.704965835 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 3000n"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-3000N"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-5000/index.md	2026-10-17 12:23:26.704965835 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 5000"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-5000"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-rt/index.md	2026-10-17 12:23:26.708965835 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS Rt"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-RT"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- /dev/null	2026-10-17 12:21:56.765280805 +0000
++++ content/camera/canon/eos-1n-rs/index.md	2026-10-17 12:23:26.712965835 +0000
+@@ -0,0 +1,8 @@
+++++
++title = "Canon EOS 1n Rs"
++brand = "Canon"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-1N-RS"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Canon EOS 35 mm film SLR. See Wikipedia for full specifications."
+++++
+--- content/camera/canon/eos-1/index.md	2026-10-17 09:09:51.105728437 +0000
++++ content/camera/canon/eos-1/index.md	2026-10-17 12:23:26.664965833 +0000
+@@ -1,5 +1,18 @@
+ +++
+ title = "Canon EOS-1"
+ brand = "Canon"
+-source = "https://en.wikipedia.org/wiki/Canon_EOS-1_%28camera_series%29"
++source = "https://en.wikipedia.org/wiki/Canon_EOS-1"
++formats = ["135"]
++mount = ["canon-ef"]
++note = "Professional autofocus SLR (1989–1994). Shutter 30s–1/8000s, 100% viewfinder. Base for the EOS-1 series."
++
++[[resources]]
++src = "eos-1.jpg"
++[resources.params]
++credit = "Morio"
++license = "CC BY-SA 4.0"
++licenseUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
++alt = "Canon EOS-1 film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Canon_EOS-1_front-left_2016_Canon_Plaza_S.jpg"
++verified = "2026-10-17"
+ +++
+--- content/camera/canon/eos-1v/index.md	2026-10-17 09:09:51.117728438 +0000
++++ content/camera/canon/eos-1v/index.md	2026-10-17 12:23:26.664965833 +0000
+@@ -2,16 +2,17 @@
+ title = "Canon EOS-1V"
+ brand = "Canon"
+ source = "https://en.wikipedia.org/wiki/Canon_EOS-1V"
++formats = ["135"]
+ mount = ["canon-ef"]
++note = "Final professional film EOS (2000–2018). 45-point autofocus, 21-zone metering, shutter 30s–1/8000s. 4 fps (10 fps with booster)."
+ 
+ [[resources]]
+ src = "eos-1v.jpg"
+ [resources.params]
+ credit = "pointnshoot"
+ license = "CC BY 2.0"
+-licenseUrl = "https://creativecommons.org/licenses/by/2.0"
+-alt = "Canon EOS-1V, photographed on its own"
+-caption = "Canon EOS 1v camera body. My most favorite 35mm film single lens reflex camera, until I went digital. Now it is in my collection of cameras."
++licenseUrl = "https://creativecommons.org/licenses/by/2.0/"
++alt = "Canon EOS-1V film camera"
+ sourcePage = "https://commons.wikimedia.org/wiki/File:Canon_EOS_1v_(281730255).jpg"
+ verified = "2026-09-04"
+ +++
