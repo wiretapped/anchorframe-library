@@ -1,0 +1,240 @@
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-1/index.md	2026-10-17 10:57:20.579422965 +0000
+@@ -0,0 +1,21 @@
+++++
++title = "Ricoh FF-1"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Rikenon 35mm f/2.8"
++note = "Compact folding-barrel 35 mm camera (released December 1978). Electronic shutter 2s–1/500s, self-timer, lever wind. Weight 225 g. Translated from Japanese Wikipedia."
++
++[[resources]]
++src = "ff-1.jpg"
++[resources.params]
++credit = "Alfred"
++license = "CC BY-SA 2.0"
++licenseUrl = "https://creativecommons.org/licenses/by-sa/2.0/"
++alt = "Ricoh FF-1 compact camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Ricoh_FF-1.jpg"
++verified = "2026-10-17"
+++++
++
++The Ricoh FF-1 (1978) is a highly compact 35 mm camera with a folding lens barrel. It features a Rikenon 35 mm f/2.8 lens and an electronic shutter.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-1s/index.md	2026-10-17 10:57:20.579422965 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh FF-1s"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Rikenon 35mm f/2.8"
++note = "Improved FF-1 (released September 1980) with electronic release that disables operation on battery failure and red LED self-timer. Weight 225 g. Translated from Japanese Wikipedia."
+++++
++
++The Ricoh FF-1s (1980) is a refined version of the FF-1 with improved battery-fail protection and self-timer indication.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-3-af/index.md	2026-10-17 10:57:20.583422966 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh FF-3 AF"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Rikenon 35mm f/3.2"
++note = "Autofocus compact (released December 1982). Built-in flash, motor wind/rewind, electronic shutter 1/8–1/500s. Weight ~290 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh FF-3 AF (1982) is an autofocus compact with built-in flash and motorized film transport.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-300d/index.md	2026-10-17 10:57:20.595422966 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh FF-300D"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Rikenon 35mm f/2.8"
++note = "Lithium-battery update of the FF-70 (released December 1986), also known as Myport 300D. Weight ~315 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh FF-300D (1986) updates the FF-70 with lithium battery power.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-3d-af/index.md	2026-10-17 10:57:20.587422966 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh FF-3D AF"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Rikenon 35mm f/3.2"
++note = "Date-imprinting variant of the FF-3 AF (released May 1983). Weight ~315 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh FF-3D AF (1983) adds date imprinting to the FF-3 AF platform.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-70/index.md	2026-10-17 10:57:20.591422966 +0000
+@@ -0,0 +1,21 @@
+++++
++title = "Ricoh FF-70"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Rikenon 35mm f/2.8"
++note = "DX-code compatible compact (released April 1985), also known as Myport Louis. Program shutter 2s–1/500s, backlight control, motor wind. Weight ~290 g (batteries separate). Translated from Japanese Wikipedia. Image resized from Commons."
++
++[[resources]]
++src = "ff-70.jpg"
++[resources.params]
++credit = "Alfred"
++license = "CC BY-SA 2.0"
++licenseUrl = "https://creativecommons.org/licenses/by-sa/2.0/"
++alt = "Ricoh FF-70 autofocus compact camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Ricoh_FF-70.jpg"
++verified = "2026-10-17"
+++++
++
++The Ricoh FF-70 (1985) is a DX-compatible autofocus compact with a large LCD information panel and Rikenon 35 mm f/2.8 lens.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-7z/index.md	2026-10-17 10:57:20.603422966 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh FF-7z"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Ricoh 35-70mm f/4.5-8.5"
++note = "Export-only zoom compact (released November 2000). 35–70 mm zoom, macro, super-night mode, backlight control. Weight ~232 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh FF-7z (2000) is a compact zoom point-and-shoot with a 35–70 mm lens and several special modes.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-9d/index.md	2026-10-17 10:57:20.595422966 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh FF-9D"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Rikenon 35mm f/3.5"
++note = "Compact with night-scene, infinity and TV modes (released March 1988). Program shutter 1/4–1/400s. Weight ~240 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh FF-9D (1988) adds special scene modes for night portraits, infinity and television screens.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/ff-9s-date/index.md	2026-10-17 10:57:20.599422966 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh FF-9s DATE"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Rikenon 35mm f/3.5"
++note = "Simplified panorama variant of the FF-9 (released March 1990). Weight ~235 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh FF-9s DATE (1990) is a lighter, panorama-capable version of the FF-9 series.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/gr1/index.md	2026-10-17 10:57:20.611422967 +0000
+@@ -0,0 +1,21 @@
+++++
++title = "Ricoh GR1"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "GR 28mm f/2.8"
++note = "Ultra-slim professional compact (released October 1996). Magnesium die-cast body, aperture-priority AE, minimum focus 0.35 m. Weight ~175 g (batteries separate). Translated from Japanese Wikipedia."
++
++[[resources]]
++src = "gr1.jpg"
++[resources.params]
++credit = "Tokyo GR Space"
++license = "CC BY-SA 3.0"
++licenseUrl = "https://creativecommons.org/licenses/by-sa/3.0/"
++alt = "Ricoh GR1 film camera"
++sourcePage = "https://commons.wikimedia.org/wiki/File:Ricoh_GR1_at_Tokyo_GR_Space.jpg"
++verified = "2026-10-17"
+++++
++
++The Ricoh GR1 (1996) is a high-quality ultra-slim 35 mm compact with a GR 28 mm f/2.8 lens, designed as a professional sub-camera.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/gr10/index.md	2026-10-17 10:57:20.627422967 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh GR10"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "GR 28mm f/2.8"
++note = "Simplified GR1-platform model (released April 1998). Weight ~170 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh GR10 (1998) uses the GR 28 mm f/2.8 lens in a lighter body derived from the GR1 series.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/gr1s/index.md	2026-10-17 10:57:20.615422967 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh GR1s"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "GR 28mm f/2.8"
++note = "Improved GR1 (released April 1998). Adds dedicated lens hood and low-light finder illumination. Weight ~178 g. Translated from Japanese Wikipedia."
+++++
++
++The Ricoh GR1s (1998) refines the GR1 with improved finder illumination and a dedicated hood.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/gr1v/index.md	2026-10-17 10:57:20.619422967 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh GR1v"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "GR 28mm f/2.8"
++note = "Further improved GR1s (released September 2001). Adds auto-bracketing, manual focus option, and manual ISO setting. Weight ~178 g. Translated from Japanese Wikipedia."
+++++
++
++The Ricoh GR1v (2001) adds auto-bracketing and manual ISO control to the GR1s platform.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/gr21/index.md	2026-10-17 10:57:20.623422967 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh GR21"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "GR 21mm f/3.5"
++note = "Wide-angle variant (released April 2000). GR 21 mm f/3.5 lens. Weight ~200 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh GR21 (2000) is the ultra-wide member of the GR film series.
+--- /dev/null	2026-10-17 10:57:18.139612539 +0000
++++ content/camera/ricoh/r1/index.md	2026-10-17 10:57:20.607422966 +0000
+@@ -0,0 +1,11 @@
+++++
++title = "Ricoh R1"
++brand = "Ricoh"
++source = "https://ja.wikipedia.org/wiki/リコーのカメラ製品一覧"
++formats = ["135"]
++integrated = true
++fixed_lens = "Ricoh 30mm f/3.5"
++note = "Ultra-slim autofocus compact (released September 1994). Thickness 25 mm excluding film magazine. Weight ~145 g (batteries separate). Translated from Japanese Wikipedia."
+++++
++
++The Ricoh R1 (1994) is an ultra-slim 35 mm autofocus compact marketed as thinner than a film cassette.
